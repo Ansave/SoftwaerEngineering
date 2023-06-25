@@ -1,7 +1,7 @@
 openapi: "3.0.0"
 info:
+    title: "API RideService"
     version: "1.0.0"
-    phone: "API RideService"
     description: API для работы с поездками
 servers:
     - url: http://localhost:8081

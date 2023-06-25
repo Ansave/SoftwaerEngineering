@@ -1,7 +1,7 @@
 openapi: "3.0.0"
 info:
+    title: "API RouteService"
     version: "1.0.0"
-    phone: "API RouteService"
     description: API для работы с маршрутами
 servers:
     - url: http://localhost:8082

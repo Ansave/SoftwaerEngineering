@@ -1,11 +1,9 @@
 openapi: '3.0.0'
 info:
+  title: 'Arch Lab Example API'
   version: '1.0.0'
-  phone: 'Arch Lab Example API'
-  description: Пример API для первого домашнего задания по курсу Архитектура программных систем
 servers:
   - url: http://localhost:8080
-    description: Example server
 paths:
   /search:
     get:
